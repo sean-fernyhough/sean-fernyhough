@@ -1,5 +1,5 @@
 Hello there.
 
-I'm currently a IT Consultant Trainee at QA Ltd.
+I'm currently an Associate Solutions Engineer at Liveperson.
 
-My proficiences include java, javascript, SQL, and python as well as fullstack web development using the MERN stack.
+My proficiences include java, Swift, javascript including React and Angular, SQL, and python.
